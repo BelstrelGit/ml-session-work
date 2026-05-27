@@ -7,7 +7,7 @@
 
 - Kaggle competition: [Signal types classification](https://www.kaggle.com/competitions/signal-types-classification)
 - Лучший public score: **0.84373**
-- Порог максимальной оценки по ТЗ: **0.84**
+- Порог максимальной оценки: **0.84**
 - Финальный submission: `final_submission/final_submission_084373.csv`
 
 ## Основной файл
